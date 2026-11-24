@@ -1,0 +1,8 @@
+{
+  "name": "CampusMatch — University Lost & Found",
+  "description": "AI-powered campus lost-and-found portal connecting students with found items and streamlining facilities staff intake and claim verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
